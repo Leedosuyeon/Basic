@@ -14,7 +14,7 @@ public class Main {
 		List<Article> articles = new ArrayList<>();
 
 		while (true) {
-
+   
 			System.out.printf("¸í·É¾î ) ");
 			String cmd = sc.nextLine().trim();
 			if (cmd.length() == 0) {
